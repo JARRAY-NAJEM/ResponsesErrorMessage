@@ -1,8 +1,7 @@
 // Error Messages
 export const INVALID_EMAIL_FORMAT_ERROR: string = "Invalid email format";
 export const EMAIL_ALREADY_EXISTS_ERROR: string = "Email already exists";
-export const PASSWORD_TOO_SHORT_ERROR: string =
-  "Password must be at least 8 characters long";
+export const PASSWORD_TOO_SHORT_ERROR: string = "Password must be at least 8 characters long";
 export const PASSWORD_TOO_WEAK_ERROR: string = "Password is too weak";
 export const USERNAME_ALREADY_TAKEN_ERROR: string = "Username is already taken";
 export const NETWORK_CONNECTION_ERROR: string = "Network connection error";
